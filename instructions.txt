@@ -1,0 +1,8 @@
+README
+-------
+
+1.	Execute the following command in the terminal for updating the graphlab version:
+pip install graphlab-create==1.4.1
+2.	Create the following directories: /assignment/input,  /assignment/features, /assignment/output
+3.	Make sure you are permitted to access (write/read files) from /assignment directory and all its sub-directories.
+4.	Execute all cells in 2-5.py and then 6-8.py- the code will automatically will split the source files to train and set test
